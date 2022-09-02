@@ -56,5 +56,9 @@ to find the training and testing accuracy. The perturbations are saved in *attac
 
 
 
-
+<object data="attack_main_idea_example.pdf" type="application/pdf" width="750px" height="750px">
+    <embed src="attack_main_idea_example.pdf" type="application/pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="attack_main_idea_example.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
