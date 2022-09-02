@@ -54,5 +54,4 @@ Once you have setup the config.ini file, you run the code by running the script 
 The results are saved in the database. One can check the tables *attacktrainingperformance* and *attacktestingperformance* 
 to find the training and testing accuracy. The perturbations are saved in *attack* table, in the column *perturbedimage*.
 
-
-<iframe width='750' height='750' src='attack_main_idea_example.pdf' frameborder='0' allowfullscreen></iframe>
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/attack_main_idea_example-1.jpg?raw=true)
